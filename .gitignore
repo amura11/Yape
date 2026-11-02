@@ -1,3 +1,6 @@
 .idea/
 
 *.zip
+
+# Fork-local dev environment lives on the "devcontainer" branch.
+.devcontainer/
